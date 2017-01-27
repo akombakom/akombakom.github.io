@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Marietta és Lénárd</title>
-	<atom:link href="https://www.akombakom.net/?feed=rss2" rel="self" type="application/rss+xml" />
+	<atom:link href="/?feed=rss2" rel="self" type="application/rss+xml" />
 	<link>https://www.akombakom.net</link>
 	<description>Esküvő, 2016. augusztus 13.</description>
 	<lastBuildDate>Tue, 17 Jan 2017 15:39:00 +0000</lastBuildDate>
